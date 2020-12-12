@@ -3,7 +3,7 @@
 
 
 ###  
-![GitHub Logo](cover.jpg)
+![GitHub Logo](cover.jpeg)
 
 ## Who am I?
 
