@@ -1,7 +1,6 @@
 ### Hi there, I'm Amanda! 👋
 
-<!--
-**amandaventurac/amandaventurac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ###  
 ![GitHub Logo](cover.jpg)
