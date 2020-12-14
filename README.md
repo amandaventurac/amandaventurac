@@ -40,3 +40,4 @@
 * [Brazilian Financial Default Evolution and Mean Wage Data Analysis](https://github.com/amandaventurac/brazilian_financial_default_Python_R)
 * [Pyrhon Automated Nanoindentation Curve Fitting](https://github.com/amandaventurac/Python-Curve-Fitting)
 * [Microscopy Image Segment Recorder Python App](https://github.com/amandaventurac/Segmentation_Python_App)
+* [Python noise filtering]()
