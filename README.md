@@ -15,8 +15,8 @@
 
 ## Skills 👩‍💻
 
-* 🐍 Python - 5 years of experience.
-* 📈 R - 3 years of experience.
+* 🐍 Python 
+* 📈 R 
 * 🗄 SQL.
 * 🧮 Power BI.
 * 🔮 Machine Learning. 
