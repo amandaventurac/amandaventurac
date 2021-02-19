@@ -7,7 +7,7 @@
 
 ## Who am I?
 
-* 💻 Data Scientist and Data Analyst
+* 💻 Data Analyst and Data Scientist
 * 📚 Researcher.
 * 👩‍🎓 Bachelor of Nanotechnology - UFRJ (Brazil) .
 * 🎓 Master in Nanotechnology Engineering - COPPE/UFRJ (Brazil).
@@ -15,12 +15,12 @@
 
 ## Skills 👩‍💻
 
+* 🧮 Power BI
+* 📊 Data Visualization
+* 🔮 Machine Learning
 * 🐍 Python 
 * 📈 R 
 * 🗄 SQL.
-* 🧮 Power BI.
-* 🔮 Machine Learning. 
-* 📊 Data Visualization
 
 ## Languages:
 * Portuguese (native)
@@ -35,7 +35,7 @@
 
 
 ## **My projects**
-* [PhD stipend analysis and prediction](https://github.com/amandaventurac/PhD_salaries)
+* [PhD stipend analysis with Python and Power BI from kaggle dataset](https://github.com/amandaventurac/PhD_salaries)
 * [Brazilian Public Health System Data Analysis](https://github.com/amandaventurac/DataScience_Python_R_Brazilian_Health_System)
 * [Brazilian Financial Default Evolution and Mean Wage Data Analysis](https://github.com/amandaventurac/brazilian_financial_default_Python_R)
 * [Pyrhon Automated Nanoindentation Curve Fitting](https://github.com/amandaventurac/Python-Curve-Fitting)
