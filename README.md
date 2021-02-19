@@ -40,6 +40,6 @@
 * [PhD stipend analysis with Python and Power BI from kaggle dataset](https://github.com/amandaventurac/PhD_salaries)
 * [Brazilian Public Health System Data Analysis](https://github.com/amandaventurac/DataScience_Python_R_Brazilian_Health_System)
 * [Brazilian Financial Default Evolution and Mean Wage Data Analysis](https://github.com/amandaventurac/brazilian_financial_default_Python_R)
-* [Pyrhon Automated Nanoindentation Curve Fitting](https://github.com/amandaventurac/Python-Curve-Fitting)
+* [Python Automated Nanoindentation Curve Fitting](https://github.com/amandaventurac/Python-Curve-Fitting)
 * [Microscopy Image Segment Recorder Python App](https://github.com/amandaventurac/Segmentation_Python_App)
 * [Python Curve Noise reduction](https://github.com/amandaventurac/Python_Curve_Noise_reduction)
