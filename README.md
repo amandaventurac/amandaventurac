@@ -7,7 +7,7 @@
 
 ## Who am I?
 
-* 💻 Data Analyst and Data Scientist
+* 💻 Data Analyst
 * 📚 Researcher.
 * 👩‍🎓 Bachelor of Nanotechnology - UFRJ (Brazil) .
 * 🎓 Master in Nanotechnology Engineering - COPPE/UFRJ (Brazil).
@@ -15,12 +15,14 @@
 
 ## Skills 👩‍💻
 
+* 📊 EDA
 * 🧮 Power BI
 * 📊 Data Visualization
-* 🔮 Machine Learning
+* 🗄 SQL
 * 🐍 Python 
 * 📈 R 
-* 🗄 SQL.
+* 🔮 Machine Learning comprehension
+
 
 ## Languages:
 * Portuguese (native)
