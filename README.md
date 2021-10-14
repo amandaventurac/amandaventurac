@@ -43,3 +43,4 @@
 * [Python Automated Nanoindentation Curve Fitting](https://github.com/amandaventurac/Python-Curve-Fitting)
 * [Microscopy Image Segment Recorder Python App](https://github.com/amandaventurac/Segmentation_Python_App)
 * [Python Curve Noise reduction](https://github.com/amandaventurac/Python_Curve_Noise_reduction)
+* [Python Data Manipulation](https://github.com/amandaventurac/python_data_manipulation)
