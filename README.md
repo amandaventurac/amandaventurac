@@ -11,7 +11,7 @@
 * 📚 Researcher.
 * 👩‍🎓 Bachelor of Nanotechnology - UFRJ (Brazil) .
 * 🎓 Master in Nanotechnology Engineering - COPPE/UFRJ (Brazil).
-* 🍾 PHD candidate in Nanotechnology Engineering - COPPE/UFRJ (Brazil) + La Rochelle Université (France)
+* 🍾 PHD in Nanotechnology Engineering - COPPE/UFRJ (Brazil) + La Rochelle Université (France)
 
 ## Skills 👩‍💻
 
@@ -26,8 +26,8 @@
 
 ## Languages:
 * Portuguese (native)
-* :us: (advanced)
-* :fr: (intermediary)
+* :us: (Professional Working Proficiency)
+* :fr: (Professional Working Proficiency)
 
 ## Find me around the world :earth_americas:
 
