@@ -7,7 +7,7 @@
 
 ## Who am I?
 
-* 💻 Data Analyst
+* 💻 Data Scientist and Data Analyst
 * 📚 Researcher.
 * 👩‍🎓 Bachelor of Nanotechnology - UFRJ (Brazil) .
 * 🎓 Master in Nanotechnology Engineering - COPPE/UFRJ (Brazil).
