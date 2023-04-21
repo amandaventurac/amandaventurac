@@ -37,6 +37,7 @@
 
 
 ## **My projects**
+* [Kmeans customer segmentation with data from kaggle](https://github.com/amandaventurac/kmeans_customer_segmentation)
 * [PhD stipend analysis with Python and Power BI from kaggle dataset](https://github.com/amandaventurac/PhD_salaries)
 * [Brazilian Public Health System Data Analysis](https://github.com/amandaventurac/DataScience_Python_R_Brazilian_Health_System)
 * [Brazilian Financial Default Evolution and Mean Wage Data Analysis](https://github.com/amandaventurac/brazilian_financial_default_Python_R)
