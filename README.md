@@ -26,8 +26,8 @@
 
 ## Languages:
 * Portuguese (native)
-* :us: (Professional Working Proficiency)
-* :fr: (Professional Working Proficiency)
+* :us: (Advanced)
+* :fr: (Upper intermediate)
 
 ## Find me around the world :earth_americas:
 
