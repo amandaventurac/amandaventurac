@@ -21,7 +21,7 @@
 * 🗄 SQL
 * 🐍 Python 
 * 📈 R 
-* 🔮 Machine Learning comprehension
+* 🔮 Machine Learning 
 
 
 ## Languages:
